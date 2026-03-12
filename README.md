@@ -4,3 +4,8 @@ Features:
 - Two player gameplay
 - Win detection
 - Reset game
+
+  Techonologies Used:
+- HTML
+- CSS
+- Javascript
