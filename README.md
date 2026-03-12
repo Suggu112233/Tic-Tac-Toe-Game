@@ -5,7 +5,7 @@ Features:
 - Win detection
 - Reset game
 
-  Techonologies Used:
+ Techonologies Used:
 - HTML
 - CSS
 - Javascript
